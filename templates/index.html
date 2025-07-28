@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReForGenAI</title>
+    <!-- Optional: Link to your CSS file -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='../static/style.css') }}">
+</head>
+<body>
+    <div id="window">
+        <div id="ldisplay">
+            <div id="headtittle">ReForGenAI</div>
+            <div id="divide"></div>
+            <div id="inputwindow">
+                <form action="/processing" method="POST">  
+                    <div id="inputbox">
+                        <div>
+                            <label for="input_one">Latitude :</label>
+                            <input type="text" id="l1" name="latitude" required> 
+                        </div>
+                        <br>
+                        <div>
+                            <label for="input_two">Longitude :</label>
+                            <input type="text" id="l2" name="longitude" required> 
+                        </div>
+                    </div>
+                    <br>
+                    <div id="enter"><button type="submit">Generate Plan</button></div>
+                </form>
+            </div>
+            <div id="resultdisplay">
+                <br>
+                <div class="toptittle">{{process}}</div>
+                <div class="variable">Location : <div class="value">{{latitude}}°,{{longitude}}°</div></div>
+                <div class="variable">Map Radius : <div class="value">{{radius}}m</div></div>
+                <div class="variable">Mean Temperature : <div class="value">{{temperature_celsius}} °C</div></div>
+                <div class="variable">Mean Elevation : <div class="value">{{elevation_meters}}m</div></div>
+                <div class="variable">Soil pH : <div class="value">{{soil_ph}}</div></div>
+                <div class="variable">Soil Type : <div class="value">{{soil_type_classes}}</div></div>
+                <div class="variable">Climate : <div class="value">{{climate_classes}}</div></div>
+                <br>
+                <div class="toptittle">Suitable Trees for the location</div> 
+                <div id="treedisplay">
+                    {% for tree in trees %}
+                    <div class="tree">{{tree[0]}}<div class="score"> {{tree[1]}}</div></div> 
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div id="rdisplay">
+            <div id="mapdisplay">
+                <div id="resulthead">Visual Map Plan Results :</div>
+                <div id="mainmap">
+                    <img id="resultmap" src="static/images/Results/check_result.png" alt="Generate to see Reforestation Plan">
+                </div>
+                <div id="othermaps">
+                    Covered Area
+                    <img id="covered" class="smallmap" src="static/images/Results/covered_mask.png" alt="Generate to see Results">
+                    Tree Mask
+                    <img id="tree" class="smallmap" src="static/images/Results/tree.png" alt="Generate to see Results">
+                    Water Mask
+                    <img id="water" class="smallmap" src="static/images/Results/water.png" alt="Generate to see Results">
+                    Building Mask
+                    <img id="building" class="smallmap" src="static/images/Results/building.png" alt="Generate to see Results">
+                    Road Mask
+                    <img id="road" class="smallmap" src="static/images/Results/road.png" alt="Generate to see Results">
+                </div>
+            </div>
+            <div id="logdisplay"></div>
+        </div>
+        
+    </div>
+</body>
+</html>

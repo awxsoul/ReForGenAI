@@ -1,0 +1,501 @@
+treename,min-temp,max-temp,min-ele,max-ele,climate,soil_type,soil_ph
+"Neem (Azadirachta indica)",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial', 'Saline']",6.2-8.5
+"Peepal / Sacred Fig (Ficus religiosa)",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Alluvial', 'Moist', 'Rocky']",6.0-8.0
+"Banyan (Ficus benghalensis)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Alluvial', 'Moist']",6.0-8.0
+"Mango (Mangifera indica)",15,45,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-7.5
+"Teak / Sagwan (Tectona grandis)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Sandy loam']",6.0-8.0
+"Sal (Shorea robusta)",5,40,100,1500,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Sandy loam', 'Loamy', 'Alluvial', 'Acidic']",4.5-6.5
+"Coconut (Cocos nucifera)",20,35,0,600,"['Tropical', 'Coastal']","['Well-drained', 'Sandy', 'Sandy loam', 'Alluvial', 'Saline', 'Moist']",5.0-8.0
+"Tamarind / Imli (Tamarindus indica)",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Alluvial', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",4.5-8.5
+"Jamun / Java Plum (Syzygium cumini)",10,40,0,1800,"['Tropical', 'Subtropical']","['Loamy', 'Well-drained', 'Alluvial', 'Sandy loam', 'Clay', 'Moist', 'Poorly drained']",5.5-7.5
+"Gulmohar / Flame Tree (Delonix regia)",15,40,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy loam', 'Loamy', 'Sandy', 'Alluvial', 'Saline']",5.5-8.0
+"Sheesham / Indian Rosewood (Dalbergia sissoo)",5,45,0,1500,"['Subtropical', 'Tropical', 'Semi-arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Alluvial', 'Sandy']",5.0-8.0
+"Eucalyptus (Eucalyptus species)",5,40,0,2000,"['Subtropical', 'Tropical', 'Temperate', 'Semi-arid', 'Mediterranean']","['Well-drained', 'Loamy', 'Sandy', 'Clay', 'Poorly drained', 'Rocky']",5.0-7.5
+"Babool / Kikar (Acacia nilotica / Vachellia nilotica)",5,50,0,800,"['Arid', 'Semi-arid', 'Tropical', 'Subtropical']","['Clay', 'Alluvial', 'Sandy loam', 'Loamy', 'Saline', 'Poorly drained', 'Well-drained']",6.5-9.0
+"Ashoka Tree (Saraca asoca)",15,35,0,750,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial']",5.5-7.0
+"Curry Leaf Tree / Kadi Patta (Murraya koenigii)",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-7.5
+"Jackfruit / Kathal (Artocarpus heterophyllus)",15,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Sandy loam', 'Moist']",5.5-7.5
+"Guava / Amrood (Psidium guajava)",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Alluvial']",4.5-8.2
+"Amla / Indian Gooseberry (Phyllanthus emblica / Emblica officinalis)",5,45,0,1800,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Poorly drained']",6.0-8.0
+"Bael / Bilva (Aegle marmelos)",5,48,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial']",5.0-8.5
+"Arjun Tree (Terminalia arjuna)",10,40,0,1000,"['Tropical', 'Subtropical']","['Alluvial', 'Moist', 'Loamy', 'Clay', 'Well-drained']",6.0-7.5
+"Mahua (Madhuca longifolia / Madhuca indica)",10,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Sandy loam', 'Loamy', 'Well-drained', 'Rocky', 'Clay']",5.5-7.5
+"Semal / Silk Cotton Tree (Bombax ceiba)",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Sandy loam']",5.5-7.5
+"Bamboo (Various genera)",0,40,0,2000,"['Tropical', 'Subtropical', 'Temperate']","['Loamy', 'Well-drained', 'Alluvial', 'Sandy loam', 'Moist', 'Clay']",5.0-7.0
+"Sandalwood / Chandan (Santalum album)",10,38,300,1400,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam', 'Clay']",6.0-7.5
+"Deodar Cedar (Cedrus deodara)",-10,30,1500,3200,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Rocky', 'Acidic', 'Moist']",5.5-7.5
+"Pine (Pinus species - e.g., Pinus roxburghii, Pinus wallichiana)",-15,35,500,3500,"['Subtropical', 'Temperate', 'Cool temperate']","['Well-drained', 'Rocky', 'Sandy loam', 'Loamy', 'Acidic']",4.5-6.5
+"Amaltas / Indian Laburnum (Cassia fistula)",5,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-8.0
+"Kachnar (Bauhinia variegata)",5,40,0,1300,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-7.5
+"Ber / Indian Jujube (Ziziphus mauritiana)",5,50,0,1000,"['Arid', 'Semi-arid', 'Tropical', 'Subtropical']","['Sandy', 'Loamy', 'Well-drained', 'Sandy loam', 'Clay', 'Rocky', 'Saline']",5.0-9.0
+"Khejri / Shami (Prosopis cineraria)",0,50,0,600,"['Arid', 'Semi-arid']","['Sandy', 'Well-drained', 'Rocky', 'Loamy', 'Saline', 'Alluvial']",7.0-9.0
+"Axlewood / Dhaora (Anogeissus latifolia)",5,45,100,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Clay', 'Sandy loam']",5.5-7.5
+"Haldu (Adina cordifolia)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.0
+"Laurel / Asna / Matti (Terminalia tomentosa / T. elliptica)",10,40,0,1200,"['Tropical', 'Subtropical']","['Loamy', 'Clay', 'Well-drained', 'Moist', 'Alluvial']",5.5-7.5
+"Indian Laurel / Kusum (Schleichera oleosa)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.0
+"White Cedar / Toon (Toona ciliata)",5,35,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Gamhar / Beechwood (Gmelina arborea)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial', 'Moist']",5.0-8.0
+"Salai / Indian Frankincense (Boswellia serrata)",5,45,100,1100,"['Semi-arid', 'Tropical', 'Subtropical']","['Rocky', 'Well-drained', 'Sandy loam', 'Loamy', 'Poorly drained']",6.0-8.0
+"Hopea (Hopea parviflora, Hopea ponga)",18,35,0,1000,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Gurjan (Dipterocarpus species)",18,35,0,900,"['Tropical']","['Well-drained', 'Loamy', 'Clay', 'Moist']",4.5-6.5
+"White Dhup (Vateria indica)",18,35,0,1200,"['Tropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.0-7.0
+"Red Sanders / Rakta Chandan (Pterocarpus santalinus)",15,45,150,750,"['Tropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Loamy']",6.5-8.0
+"Indian Kino Tree / Bijasal (Pterocarpus marsupium)",10,40,0,1100,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.5-7.5
+"Sissoo / East Indian Rosewood (Dalbergia latifolia)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Khair (Acacia catechu / Senegalia catechu)",5,45,0,1300,"['Tropical', 'Subtropical', 'Semi-arid']","['Sandy', 'Rocky', 'Well-drained', 'Alluvial', 'Loamy', 'Clay']",5.5-8.5
+"Mesua / Nahor (Mesua ferrea)",15,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist', 'Acidic']",4.5-6.5
+"Ebony / Tendu (Diospyros melanoxylon)",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.5-7.5
+"Satinwood (Chloroxylon swietenia)",15,45,0,700,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam']",6.0-8.0
+"Mundani / Burflower Tree (Neolamarckia cadamba / Anthocephalus cadamba)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Indian Mulberry / Shahtoot (Morus indica / Morus alba)",5,40,0,1500,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",6.0-7.5
+"Silver Oak (Grevillea robusta)",5,35,0,2300,"['Subtropical', 'Temperate', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Acidic']",4.5-7.0
+"Casuarina / She-Oak (Casuarina equisetifolia)",10,35,0,500,"['Coastal', 'Tropical', 'Subtropical']","['Sandy', 'Well-drained', 'Saline', 'Loamy']",5.0-8.5
+"Poplar (Populus species - e.g., P. deltoides)",-10,40,0,1500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Sandy loam', 'Moist']",5.5-7.5
+"Subabul (Leucaena leucocephala)",10,40,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial', 'Saline']",5.5-8.5
+"Indian Cork Tree / Akash Neem (Millingtonia hortensis)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",6.0-7.5
+"Rain Tree / Shirish (Albizia saman / Samanea saman)",15,38,0,800,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Saline']",5.5-8.0
+"Siris / Lebbeck Tree (Albizia lebbeck)",5,45,0,1600,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial', 'Saline']",5.0-8.5
+"Black Siris (Albizia odoratissima)",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Clay', 'Moist']",5.5-7.5
+"Pink Siris (Albizia julibrissin)",-5,40,0,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Anjan (Hardwickia binata)",10,48,100,1000,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam', 'Clay']",6.0-8.0
+"Dhaman (Grewia tiliaefolia)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",6.0-7.5
+"Indian Ash Tree (Fraxinus micrantha)",-5,30,1800,2700,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Rocky']",6.0-7.5
+"Walnut / Akhrot (Juglans regia)",-10,35,1000,3300,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Deep']",6.0-7.5
+"Oak (Quercus species - e.g., Q. leucotrichophora, Q. floribunda, Q. semecarpifolia)",-15,30,1200,3500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Rocky', 'Acidic', 'Moist']",5.0-7.0
+"Rhododendron (Rhododendron arboreum)",-5,25,1500,3600,"['Temperate', 'Cool temperate', 'Alpine']","['Well-drained', 'Acidic', 'Moist', 'Loamy']",4.5-6.0
+"Birch / Bhojpatra (Betula utilis)",-20,25,2500,4500,"['Cool temperate', 'Alpine']","['Well-drained', 'Rocky', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Alder / Utis (Alnus nepalensis)",0,30,500,3000,"['Subtropical', 'Temperate', 'Cool temperate']","['Moist', 'Well-drained', 'Loamy', 'Alluvial', 'Rocky']",5.5-7.5
+"Fir (Abies species - e.g., A. pindrow)",-20,25,2000,3600,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Rocky', 'Acidic']",5.0-6.5
+"Spruce (Picea species - e.g., P. smithiana)",-20,25,2000,3600,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Rocky', 'Acidic']",4.5-6.5
+"Cypress (Cupressus species - e.g., C. torulosa)",-10,30,1500,2800,"['Temperate', 'Cool temperate']","['Well-drained', 'Rocky', 'Loamy']",6.0-8.0
+"Horse Chestnut (Aesculus indica)",-5,30,1200,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",6.0-7.5
+"Maple / Kapashi (Acer species)",-10,30,1500,3500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Rocky']",5.5-7.5
+"Padauk / Andaman Redwood (Pterocarpus dalbergioides)",20,35,0,100,"['Tropical']","['Well-drained', 'Loamy', 'Alluvial']",6.0-7.5
+"Sundari (Heritiera fomes)",20,35,0,10,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Poorly drained']","6.5-8.0 (Saline)"
+"Goran (Ceriops decandra)",20,35,0,10,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Poorly drained']","6.0-8.0 (Saline)"
+"Mangrove Apple / Sonneratia (Sonneratia apetala)",20,35,0,10,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Poorly drained']","6.0-8.0 (Saline)"
+"Mangrove Date Palm (Phoenix paludosa)",20,35,0,10,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Moist']","6.0-8.0 (Saline)"
+"Rhizophora species (e.g., R. mucronata)",20,35,0,5,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Poorly drained']","6.0-8.0 (Saline)"
+"Avicennia species (e.g., A. marina, A. officinalis)",15,35,0,5,"['Coastal', 'Tropical', 'Subtropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Poorly drained', 'Sandy']","6.5-8.5 (Saline)"
+"Bruguiera species (e.g., B. gymnorhiza)",20,35,0,10,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Poorly drained']","6.0-8.0 (Saline)"
+"Excoecaria agallocha / Blinding Tree",15,35,0,10,"['Coastal', 'Tropical', 'Subtropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Sandy']","6.0-8.0 (Saline)"
+"Custard Apple / Sitaphal (Annona squamosa)",10,40,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Rocky', 'Alluvial']",5.5-7.5
+"Ramphal (Annona reticulata)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.5
+"Bullock's Heart / Lakshman Phal (Annona cherimola)",5,30,500,2000,"['Subtropical', 'Temperate', 'Mediterranean']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.5
+"Pomegranate / Anar (Punica granatum)",-5,45,0,1800,"['Subtropical', 'Temperate', 'Semi-arid', 'Mediterranean']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial']",5.5-8.0
+"Fig / Anjeer (Ficus carica)",0,45,0,1700,"['Subtropical', 'Temperate', 'Mediterranean', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",6.0-8.0
+"Karonda (Carissa carandas)",5,45,0,1800,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Sandy', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.0-8.0
+"Phalsa (Grewia asiatica)",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Clay']",6.0-7.5
+"Chikoo / Sapota (Manilkara zapota)",15,38,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial', 'Clay']",6.0-8.0
+"Papaya (Carica papaya)",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-7.0
+"Lemon / Nimbu (Citrus limon)",5,40,0,1200,"['Subtropical', 'Tropical', 'Mediterranean']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-6.5
+"Orange / Santra (Citrus sinensis)",5,38,0,1500,"['Subtropical', 'Tropical', 'Mediterranean']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.0
+"Sweet Lime / Mosambi (Citrus limetta)",10,40,0,1000,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.0
+"Pomelo / Chakotra (Citrus maxima)",15,35,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.0
+"Kokum (Garcinia indica)",18,35,0,800,"['Tropical', 'Coastal']","['Well-drained', 'Loamy', 'Lateritic', 'Moist']",5.0-6.5
+"Palmyra Palm / Tadgola (Borassus flabellifer)",15,45,0,500,"['Tropical', 'Subtropical', 'Semi-arid', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Alluvial', 'Saline']",6.0-8.5
+"Date Palm / Khajur (Phoenix dactylifera)",0,50,0,1500,"['Arid', 'Semi-arid', 'Mediterranean']","['Sandy', 'Well-drained', 'Loamy', 'Saline']",7.0-9.0
+"Wild Date Palm / Khajoor (Phoenix sylvestris)",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid']","['Moist', 'Loamy', 'Clay', 'Sandy loam', 'Well-drained', 'Poorly drained']",6.0-8.5
+"Areca Nut / Supari (Areca catechu)",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.0-6.5
+"Cashew / Kaju (Anacardium occidentale)",15,40,0,700,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Sandy loam', 'Loamy', 'Lateritic']",4.5-6.5
+"Litchi (Litchi chinensis)",5,38,0,800,"['Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.0
+"Longan (Dimocarpus longan)",10,35,0,600,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-6.5
+"Rambutan (Nephelium lappaceum)",20,35,0,500,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-6.5
+"Star Fruit / Kamrakh (Averrhoa carambola)",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Moist']",5.0-6.5
+"Bilimbi (Averrhoa bilimbi)",18,35,0,500,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-6.5
+"Elephant Apple / Chalta (Dillenia indica)",15,35,0,800,"['Tropical', 'Subtropical']","['Moist', 'Loamy', 'Clay', 'Alluvial', 'Swampy']",5.0-7.0
+"Monkey Jack / Lakoocha (Artocarpus lacucha)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Breadfruit (Artocarpus altilis)",20,35,0,650,"['Tropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",6.0-7.5
+"Indian Almond / Jungli Badam (Terminalia catappa)",15,35,0,500,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Saline']",5.5-8.0
+"Manila Tamarind / Jungle Jalebi (Pithecellobium dulce)",10,45,0,1800,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Saline', 'Rocky']",5.5-8.5
+"Wood Apple / Kaitha (Limonia acidissima / Feronia limonia)",5,48,0,500,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.0-8.0
+"Persimmon (Diospyros kaki)",-10,35,500,2000,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Clay loam']",6.0-7.5
+"Peach / Aadu (Prunus persica)",-15,35,500,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.0
+"Plum / Aloo Bukhara (Prunus domestica / Prunus salicina)",-20,35,500,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Clay loam']",5.5-7.0
+"Apricot / Khubani (Prunus armeniaca)",-20,35,1000,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.5
+"Cherry (Prunus avium)",-20,30,1000,2500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.5
+"Pear / Nashpati (Pyrus communis)",-20,35,500,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Clay loam']",6.0-7.5
+"Apple / Seb (Malus domestica)",-25,35,1500,2700,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Clay loam']",5.5-7.0
+"Cape Gooseberry / Rasbhari (Physalis peruviana)",0,30,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Sandy loam', 'Loamy']",5.5-7.0
+"Avocado (Persea americana)",-2,35,0,1800,"['Subtropical', 'Tropical', 'Mediterranean']","['Well-drained', 'Loamy']",5.5-7.0
+"Passion Fruit (Passiflora edulis)",5,30,500,2000,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.0
+"Jacaranda (Jacaranda mimosifolia)",-2,40,0,1500,"['Subtropical', 'Tropical', 'Temperate', 'Mediterranean']","['Well-drained', 'Sandy loam', 'Loamy']",6.0-7.5
+"Copper Pod / Yellow Gulmohar (Peltophorum pterocarpum)",15,40,0,800,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Saline']",5.5-7.5
+"Pride of India / Jarul (Lagerstroemia speciosa)",15,40,0,1000,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial', 'Clay']",5.0-6.5
+"Queen's Crape Myrtle (Lagerstroemia reginae)",15,40,0,800,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy']",5.0-6.5
+"Bottle Brush (Callistemon species)",-5,40,0,1500,"['Subtropical', 'Temperate', 'Mediterranean', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Poorly drained']",5.5-7.5
+"Golden Shower Tree / Kanikkonna (Cassia fistula)",5,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-8.0
+"Pink Shower Tree (Cassia javanica)",15,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.5
+"Red Cassia / Java Cassia (Cassia roxburghii)",15,40,0,600,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.5
+"Senna siamea / Kassod Tree (Senna siamea)",10,40,0,1300,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.5
+"African Tulip Tree (Spathodea campanulata)",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Sausage Tree (Kigelia africana)",10,40,0,1800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Sandy loam']",6.0-7.5
+"Cannonball Tree (Couroupita guianensis)",18,35,0,800,"['Tropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.0
+"Pagoda Tree / Temple Tree / Champa (Plumeria species - P. rubra, P. alba)",10,45,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy loam', 'Loamy', 'Sandy']",6.0-7.5
+"Sita Ashok / Sorrowless Tree (Saraca asoca)",15,35,0,750,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial']",5.5-7.0
+"False Ashoka / Mast Tree (Monoon longifolium / Polyalthia longifolia)",15,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Karanj / Indian Beech (Millettia pinnata / Pongamia pinnata)",5,40,0,1200,"['Tropical', 'Subtropical', 'Coastal', 'Semi-arid']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Saline', 'Rocky', 'Alluvial']",5.0-8.5
+"Putranjiva / Lucky Bean Tree (Putranjiva roxburghii)",10,38,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.5-7.5
+"Rudraksha (Elaeocarpus ganitrus)",5,35,0,2000,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Fishtail Palm (Caryota urens)",10,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",6.0-7.5
+"Royal Palm (Roystonea regia)",15,35,0,500,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.5
+"Traveller's Palm (Ravenala madagascariensis)",15,35,0,500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Silver Date Palm (Phoenix sylvestris)",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid']","['Moist', 'Loamy', 'Clay', 'Sandy loam', 'Well-drained', 'Poorly drained']",6.0-8.5
+"Chinese Fan Palm (Livistona chinensis)",0,35,0,800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam']",6.0-7.5
+"Areca Palm (Dypsis lutescens)",15,35,0,600,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",6.0-7.0
+"Foxtail Palm (Wodyetia bifurcata)",15,40,0,300,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy']",6.0-8.0
+"Red Latan Palm (Latania lontaroides)",18,35,0,300,"['Tropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy']",6.0-8.0
+"Bismarck Palm (Bismarckia nobilis)",10,45,0,500,"['Tropical', 'Subtropical', 'Semi-arid', 'Coastal']","['Well-drained', 'Sandy', 'Loamy']",6.0-8.0
+"Weeping Willow (Salix babylonica)",-15,35,0,1500,"['Temperate', 'Subtropical']","['Moist', 'Wet', 'Loamy', 'Clay', 'Poorly drained']",5.5-7.5
+"Indian Willow (Salix tetrasperma)",0,40,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Moist', 'Wet', 'Loamy', 'Alluvial', 'Poorly drained']",5.5-7.5
+"Bakain / Persian Lilac (Melia azedarach)",-5,45,0,1800,"['Subtropical', 'Temperate', 'Tropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Alluvial']",5.5-8.0
+"Singapore Cherry / Jamaica Cherry (Muntingia calabura)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Sandy loam', 'Loamy', 'Poor', 'Disturbed']",5.5-7.5
+"Tree Jasmine / Akash Mallige (Millingtonia hortensis)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",6.0-7.5
+"Parijat / Night-flowering Jasmine (Nyctanthes arbor-tristis)",5,40,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.5
+"Champa / Frangipani (Plumeria species)",10,45,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy loam', 'Loamy', 'Sandy']",6.0-7.5
+"White Frangipani (Plumeria alba)",10,45,0,800,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy loam', 'Loamy', 'Sandy']",6.0-7.5
+"Red Frangipani (Plumeria rubra)",10,45,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy loam', 'Loamy', 'Sandy']",6.0-7.5
+"Sita Ashok (Saraca asoca)",15,35,0,750,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial']",5.5-7.0
+"Ashok (Polyalthia longifolia)",15,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Kadamba (Neolamarckia cadamba)",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Henna / Mehndi (Lawsonia inermis)",10,48,0,800,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Clay']",5.5-8.0
+"Baheda / Bibhitaki (Terminalia bellirica)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Haritaki / Harad (Terminalia chebula)",5,40,0,1500,"['Tropical', 'Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.5-7.5
+"Guggul (Commiphora wightii / C. mukul)",5,50,0,600,"['Arid', 'Semi-arid']","['Rocky', 'Sandy', 'Well-drained', 'Gravelly']",7.0-9.0
+"Shallaki / Indian Frankincense (Boswellia serrata)",5,45,100,1100,"['Semi-arid', 'Tropical', 'Subtropical']","['Rocky', 'Well-drained', 'Sandy loam', 'Loamy', 'Poorly drained']",6.0-8.0
+"Lodhra (Symplocos racemosa)",5,35,500,1500,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Kutaja / Kurchi (Holarrhena pubescens / H. antidysenterica)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.5
+"Chirata (Swertia chirayita)",-5,25,1500,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Acidic', 'Moist']",5.0-6.5
+"Vidanga (Embelia ribes)",5,35,500,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Ashwagandha / Indian Ginseng (Withania somnifera)",5,40,0,1000,"['Subtropical', 'Tropical', 'Semi-arid', 'Arid']","['Sandy loam', 'Well-drained', 'Loamy', 'Sandy']",7.0-8.5
+"Shatavari (Asparagus racemosus)",0,40,0,1500,"['Tropical', 'Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",6.0-8.0
+"Guduchi / Giloy (Tinospora cordifolia)",5,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-8.0
+"Vasa / Malabar Nut (Justicia adhatoda / Adhatoda vasica)",5,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Waste lands']",5.5-7.5
+"Castor Bean Plant / Arandi (Ricinus communis)",5,40,0,2000,"['Tropical', 'Subtropical', 'Temperate', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.0-7.5
+"Physic Nut / Jamal Gota (Jatropha curcas)",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy', 'Loamy', 'Gravelly', 'Poor']",5.0-8.5
+"Marking Nut / Bhilawa (Semecarpus anacardium)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam']",5.5-7.5
+"Drumstick Tree / Moringa (Moringa oleifera)",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Sandy']",5.0-8.5
+"Calotropis / Aak (Calotropis gigantea, C. procera)",5,50,0,1000,"['Arid', 'Semi-arid', 'Tropical', 'Subtropical']","['Sandy', 'Well-drained', 'Rocky', 'Loamy', 'Waste lands']",6.0-9.0
+"Datura / Thorn Apple (Datura stramonium, D. metel)",0,40,0,2000,"['Subtropical', 'Temperate', 'Tropical']","['Well-drained', 'Loamy', 'Disturbed']",5.5-7.5
+"Nux Vomica / Kuchla (Strychnos nux-vomica)",15,40,0,500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Lateritic']",5.5-7.0
+"Chakunda / Cassia Tora (Senna tora / Cassia tora)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Waste lands']",5.5-7.5
+"Odina / Mohin (Lannea coromandelica)",10,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Kulu / Indian Gum Karaya (Sterculia urens)",10,45,100,800,"['Tropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Poor', 'Gravelly']",6.0-8.0
+"Bhilwara (Bridelia retusa)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky', 'Clay']",5.5-7.5
+"Mitragyna parvifolia / Kaim",10,40,0,1000,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Clay', 'Alluvial']",5.5-7.5
+"Hymenodictyon orixense / Bhurkur",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy']",6.0-7.5
+"Kydia calycina / Pula",5,35,0,1500,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Gardenia latifolia / Papra",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.0
+"Gardenia turgida / Thanella",10,45,100,1000,"['Tropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Clay']",6.0-8.0
+"Wrightia tinctoria / Dudhi / Pala Indigo",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam', 'Clay']",5.5-8.0
+"Wrightia tomentosa / Kala Indrajau",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Holoptelea integrifolia / Chilbil / Indian Elm",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Alluvial', 'Sandy loam', 'Clay']",5.5-8.0
+"Mallotus philippensis / Kamala Tree",5,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.0-7.0
+"Trema orientalis / Charcoal Tree",10,35,0,1800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Poor', 'Disturbed']",5.0-7.5
+"Macaranga peltata / Vatta Tree",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Lateritic']",5.0-6.5
+"Ficus hispida / Hairy Fig",10,35,0,1000,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Clay']",5.5-7.5
+"Ficus racemosa / Cluster Fig / Gular",10,40,0,1700,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Clay', 'Alluvial', 'Rocky']",6.0-8.0
+"Ficus exasperata / Sandpaper Fig",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",6.0-7.5
+"Ficus virens / White Fig / Pilkhan",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Alluvial', 'Rocky']",6.0-8.0
+"Ficus benjamina / Weeping Fig",10,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Ficus elastica / Indian Rubber Tree",15,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Garuga pinnata / Kharpat",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky', 'Clay']",5.5-7.5
+"Schrebera swietenioides / Mokha / Ghant",10,45,0,1000,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Clay']",6.0-8.0
+"Casearia tomentosa / Chilla",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Flacourtia indica / Kankai / Governor's Plum",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky', 'Clay']",5.0-8.0
+"Zanthoxylum rhetsa / Indian Prickly Ash / Mullilam",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Erythrina variegata / Indian Coral Tree / Pangara",15,40,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Saline']",5.5-8.0
+"Erythrina suberosa / Dhuldhak",5,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam']",5.5-7.5
+"Butea monosperma / Palash / Flame of the Forest",0,48,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Clay', 'Poorly drained', 'Saline', 'Well-drained', 'Loamy', 'Rocky']",5.0-8.5
+"Butea superba",10,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Ougeinia oojeinensis / Sandan",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Clay', 'Rocky']",5.5-7.5
+"Soymida febrifuga / Indian Redwood / Rohan",10,45,0,1000,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Clay']",6.0-8.0
+"Chukrasia tabularis / Indian Mahogany / Chikrasi",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.0
+"Aphanamixis polystachya / Rohituka / Pithraj Tree",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.0
+"Aglaia elaeagnoidea / Priyangu",15,35,0,800,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy']",5.5-7.5
+"Walsura trifoliata",15,35,0,600,"['Tropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Cipadessa baccifera",10,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Heynea trijuga",10,35,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Meliosma pinnata",0,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Bischofia javanica / Bishopwood",10,35,0,1500,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial']",5.0-7.5
+"Glochidion species (e.g., G. velutinum)",5,35,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Drypetes roxburghii (Putranjiva roxburghii)",10,38,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.5-7.5
+"Cleistanthus collinus / Oduvan",15,45,0,800,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Gravelly', 'Loamy']",5.5-7.5
+"Alangium salviifolium / Ankol",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.0-8.0
+"Mitragyna tubulosa",18,35,0,500,"['Tropical']","['Wet', 'Swampy', 'Poorly drained', 'Clay']",5.5-7.0
+"Wendlandia exserta",5,35,500,1500,"['Subtropical', 'Temperate']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.5
+"Ixora arborea / Torch Tree",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Pavetta indica / Indian Pavetta",10,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Canthium dicoccum / Ceylon Boxwood",15,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Meyna laxiflora / Mainphal",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Clay']",5.5-7.5
+"Catunaregam spinosa (Randia dumetorum) / Emetic Nut / Mainphal",10,45,0,1300,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Rocky', 'Clay']",5.5-7.5
+"Diospyros montana / Mountain Persimmon",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Diospyros chloroxylon / Green Ebony",15,45,0,800,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Clay']",6.0-8.0
+"Holarrhena pubescens (Kurchi)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.5
+"Carissa opaca / Jungli Karonda",5,45,100,1800,"['Subtropical', 'Semi-arid', 'Temperate']","['Well-drained', 'Rocky', 'Sandy loam', 'Loamy']",5.5-8.0
+"Ichnocarpus frutescens / Dudhilata",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.5
+"Vallaris solanacea / Dudhi Bel",15,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial']",5.5-7.0
+"Cordia dichotoma / Lasora / Glue Berry",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Alluvial']",5.5-8.0
+"Cordia macleodii / Dhaman",10,45,0,1000,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Clay']",6.0-8.0
+"Ehretia laevis / Khandu Chakka",5,40,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Premna mucronata / Arni / Agnimantha",5,40,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Vitex negundo / Nirgundi / Five-leaved Chaste Tree",0,45,0,1500,"['Subtropical', 'Tropical', 'Temperate', 'Semi-arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Clay', 'Rocky', 'Alluvial']",5.0-8.5
+"Vitex altissima / Peacock Chaste Tree / Myrole",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Vitex peduncularis / Charaigorh",10,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Clerodendrum infortunatum / Bhant",10,35,0,1000,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Shady']",5.0-7.0
+"Callicarpa macrophylla / Priyangu",5,35,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Stereospermum chelonoides / Padri Tree",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.5-7.0
+"Stereospermum suaveolens (S. colais) / Padri",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Radermachera xylocarpa / Padri Tree",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Oroxylum indicum / Midnight Horror / Shyonaka",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.5-7.5
+"Markhamia stipulata",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Dolichandrone spathacea / Mangrove Trumpet Tree",20,35,0,50,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Wet', 'Clay', 'Muddy']","6.0-8.0 (Saline)"
+"Dolichandrone atrovirens",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Fernandoa adenophylla",15,35,0,800,"['Tropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Crescentia cujete / Calabash Tree",15,40,0,600,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.0-8.0
+"Nyctanthes arbor-tristis (Parijat)",5,40,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.5
+"Jasminum arborescens / Tree Jasmine",10,35,0,1200,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Ligustrum robustum",0,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Olea dioica / Indian Olive",10,35,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Chionanthus ramiflorus (Linociera ramiflora)",15,35,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy']",5.5-7.5
+"Salvadora persica / Miswak / Toothbrush Tree",5,50,0,500,"['Arid', 'Semi-arid', 'Coastal']","['Saline', 'Sandy', 'Well-drained', 'Loamy', 'Clay']",6.5-9.0
+"Salvadora oleoides / Vann / Pilu",5,50,0,500,"['Arid', 'Semi-arid']","['Sandy', 'Well-drained', 'Rocky', 'Loamy', 'Saline']",7.0-9.0
+"Cryptolepis buchananii / Karanta",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Hemidesmus indicus / Anantamul / Indian Sarsaparilla",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Sandy loam', 'Loamy', 'Rocky']",5.5-7.5
+"Tylophora indica / Antamul",15,35,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Sarcostemma acidum / Soma Plant",10,45,0,800,"['Tropical', 'Semi-arid', 'Arid']","['Rocky', 'Well-drained', 'Sandy']",6.0-8.5
+"Euphorbia nivulia / Thorny Milk Hedge",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Sandy loam', 'Loamy']",6.0-8.5
+"Euphorbia tirucalli / Pencil Tree / Milk Bush",10,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy', 'Loamy', 'Rocky', 'Poor']",5.0-8.5
+"Euphorbia antiquorum / Antique Spurge",10,45,0,800,"['Tropical', 'Subtropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Sandy loam']",6.0-8.5
+"Jatropha gossypiifolia / Bellyache Bush",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Sandy loam', 'Loamy', 'Disturbed']",5.5-7.5
+"Baliospermum montanum / Danti",10,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Croton roxburghii",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Trewia nudiflora / Gutel / False White Teak",15,35,0,800,"['Tropical', 'Subtropical']","['Moist', 'Alluvial', 'Loamy', 'Clay', 'Well-drained']",5.5-7.5
+"Celtis australis / Nettle Tree / Khirk",-5,35,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky', 'Alluvial']",6.0-8.0
+"Celtis tetrandra / Brumaj",5,35,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Rocky']",6.0-7.5
+"Gironniera reticulata / Angavai",18,35,0,1200,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Streblus asper / Sihora / Sandpaper Tree",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial']",5.5-8.0
+"Antiaris toxicaria / Upas Tree / Maravuri",18,35,0,1500,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Ulmus wallichiana / Himalayan Elm / Kain",-10,30,1800,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",6.0-7.5
+"Myrica esculenta / Kaphal / Box Myrtle",0,30,1000,2100,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Acidic', 'Rocky']",5.0-6.5
+"Engelhardtia spicata / Mowa",5,30,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Carpinus viminea / Himalayan Hornbeam",-5,25,1500,2700,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Corylus jacquemontii / Himalayan Hazel",-10,25,1800,3300,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Lithocarpus pachyphyllus / Stone Oak",0,25,1500,2500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Acidic']",5.0-6.5
+"Castanopsis indica / Indian Chestnut",5,30,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Castanopsis tribuloides / Himalayan Chestnut",0,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Juniperus communis / Common Juniper",-30,25,2000,4500,"['Cool temperate', 'Alpine', 'Temperate']","['Well-drained', 'Rocky', 'Sandy', 'Loamy', 'Acidic']",5.0-8.0
+"Juniperus recurva / Weeping Blue Juniper",-20,25,2700,4500,"['Cool temperate', 'Alpine']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.5
+"Juniperus polycarpos / Himalayan Pencil Cedar",-15,30,2000,4300,"['Temperate', 'Cool temperate', 'Arid (high alt)']","['Well-drained', 'Rocky', 'Dry']",6.0-8.5
+"Taxus wallichiana / Himalayan Yew",-15,25,1800,3300,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Rocky']",5.5-7.5
+"Ephedra gerardiana / Somlata",-20,30,2500,5000,"['Alpine', 'Cool temperate', 'Arid (high alt)']","['Rocky', 'Well-drained', 'Sandy', 'Dry']",6.5-8.5
+"Pinus gerardiana / Chilgoza Pine",-15,30,1800,3300,"['Temperate', 'Cool temperate', 'Arid (high alt)']","['Well-drained', 'Rocky', 'Dry', 'Sandy loam']",6.0-8.0
+"Pinus kesiya / Khasi Pine",0,30,800,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Acidic', 'Loamy', 'Sandy loam']",4.5-6.0
+"Abies spectabilis / East Himalayan Fir",-20,20,2800,4000,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Abies densa / Sikkim Fir",-20,20,2800,4000,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Larix griffithii / Sikkim Larch",-20,20,2500,4000,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Rocky']",5.0-6.5
+"Tsuga dumosa / Himalayan Hemlock",-15,25,2000,3500,"['Cool temperate', 'Temperate']","['Well-drained', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Michelia champaca / Champak",10,38,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Alluvial']",5.5-7.0
+"Michelia doltsopa / Safed Champa",5,30,1500,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Magnolia campbellii / Lal Champa",-5,25,2000,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Magnolia pterocarpa / Elephant Apple Magnolia",10,30,500,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Dillenia pentagyna / Aggai",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Clay']",5.0-7.0
+"Miliusa velutina / Dom-sal",10,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.5
+"Polyalthia cerasoides / Hoom",10,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Saccopetalum tomentosum / Hoom",15,35,0,600,"['Tropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Annona muricata / Soursop",18,35,0,800,"['Tropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-6.5
+"Cinnamomum tamala / Tejpat / Indian Bay Leaf",5,35,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Cinnamomum verum / Dalchini / True Cinnamon",18,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Moist']",4.5-6.0
+"Cinnamomum camphora / Camphor Tree",0,35,0,1500,"['Subtropical', 'Temperate', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam']",4.5-7.0
+"Litsea glutinosa / Maida Lakri",10,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Litsea monopetala / Meda",5,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Neolitsea cassia",10,35,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Persea macrantha / Machilus",10,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Phoebe lanceolata",5,30,1000,2000,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Pittosporum napaulense",0,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.5
+"Xylosma longifolium / Dandal",5,35,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Hydnocarpus pentandrus / Chaulmoogra",18,35,0,1000,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Cochlospermum religiosum / Yellow Silk Cotton / Galgal",10,45,0,800,"['Tropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Poor', 'Sandy loam']",5.5-8.0
+"Firmiana colorata / Bodula",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Helicteres isora / Maror Phali / Indian Screw Tree",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Pterospermum acerifolium / Kanak Champa / Muchkunda",10,35,0,1200,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Pterygota alata / Buddha Coconut / Tula",15,35,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial']",5.5-7.0
+"Reevesia wallichii",5,30,1000,2000,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Berrya cordifolia / Trincomalee Wood",18,35,0,600,"['Tropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.5
+"Elaeocarpus serratus / Ceylon Olive / Veralu",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Elaeocarpus tuberculatus / Rudraksham",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Reinwardtia indica / Yellow Flax / Basanti",5,30,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Hugonia mystax / Climbing Flax",15,35,0,800,"['Tropical']","['Well-drained', 'Loamy', 'Lateritic']",5.0-6.5
+"Irvingia malayana / Ramania",20,35,0,500,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Balanites aegyptiaca / Desert Date / Hingan",5,50,0,1000,"['Arid', 'Semi-arid', 'Tropical']","['Sandy', 'Loamy', 'Well-drained', 'Clay', 'Rocky', 'Saline']",6.0-9.0
+"Picrasma javanica",10,30,500,1500,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy']",5.5-7.0
+"Ailanthus excelsa / Tree of Heaven / Mahanimba",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Rocky', 'Poor']",5.5-8.5
+"Ailanthus triphysa / Maharukh",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.5
+"Garuga floribunda (syn. G. pinnata)",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky', 'Clay']",5.5-7.5
+"Protium serratum / Murtenga",15,35,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Azadirachta indica (Neem)",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial', 'Saline']",6.2-8.5
+"Melia composita (M. dubia) / Malabar Neem / Hebbevu",10,40,0,1800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-7.5
+"Aglaia odoratissima",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Dysoxylum malabaricum / White Cedar",18,35,0,1200,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Dysoxylum binectariferum / Lassuni",15,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Toona hexandra / Moulmein Cedar",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Xylocarpus granatum / Cannonball Mangrove",20,35,0,5,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Muddy']","6.0-8.0 (Saline)"
+"Xylocarpus moluccensis / Cedar Mangrove",20,35,0,5,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Clay', 'Wet', 'Muddy']","6.0-8.0 (Saline)"
+"Olax scandens / Badrul",10,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.5
+"Celastrus paniculatus / Malkangni / Jyotishmati",0,40,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Rocky', 'Sandy loam']",5.5-7.5
+"Euonymus tingens / Himalayan Spindle",-5,25,1800,3300,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Maytenus emarginata / Thorny Staff Tree / Kankera",5,48,0,800,"['Arid', 'Semi-arid', 'Tropical']","['Rocky', 'Well-drained', 'Sandy', 'Loamy', 'Clay']",6.0-8.5
+"Cassine glauca / Bhutya / Kukkur Cheera",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Hippocratea indica / Kazurati",15,35,0,600,"['Tropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Ventilago denticulata / Pitti",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Gouania leptostachya / Rakta-pita",10,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Colubrina asiatica / Asian Snakewood",15,35,0,200,"['Coastal', 'Tropical']","['Sandy', 'Well-drained', 'Saline']",6.0-8.0
+"Leea indica / Bandicoot Berry / Kukura Jihwa",10,35,0,1500,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Shady']",5.0-7.0
+"Sapindus mukorossi / Reetha / Soap Nut",-5,35,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Sapindus trifoliatus / South Indian Soap Nut",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Allophylus cobbe / Tippani",10,40,0,1500,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy', 'Rocky']",5.5-7.5
+"Dodonaea viscosa / Sanatta / Hop Bush",-5,45,0,2500,"['Subtropical', 'Temperate', 'Semi-arid', 'Arid', 'Coastal', 'Mediterranean']","['Well-drained', 'Sandy', 'Loamy', 'Rocky', 'Poor', 'Saline']",5.0-8.5
+"Turpinia pomifera / Janoki Balli",5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Buchanania lanzan / Chironji / Cuddapah Almond",10,45,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Rocky', 'Gravelly']",5.5-7.5
+"Mangifera sylvatica / Wild Mango",10,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Nothapodytes nimmoniana / Amruta / Ghanera",10,30,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist', 'Shady']",5.5-7.0
+"Semecarpus anacardium (Bhilawa)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam']",5.5-7.5
+"Spondias pinnata / Amra / Wild Mango / Hog Plum",15,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Moist']",5.0-7.0
+"Rhus parviflora / Tungla / Sumac",0,35,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.5
+"Pistacia chinensis spp. integerrima / Kakarasingi",-5,35,500,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy']",6.0-8.0
+"Moringa concanensis / Wild Moringa",10,45,0,800,"['Tropical', 'Semi-arid']","['Rocky', 'Well-drained', 'Sandy loam']",6.0-8.0
+"Connarus monocarpus / Sundar",18,35,0,800,"['Tropical', 'Coastal']","['Well-drained', 'Loamy', 'Lateritic']",5.0-6.5
+"Crotalaria juncea / Sunn Hemp",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Sandy loam', 'Loamy']",5.0-7.5
+"Desmodium oojeinense (Ougeinia oojeinensis / Sandan)",5,45,0,1500,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Clay', 'Rocky']",5.5-7.5
+"Flemingia macrophylla / Bara Salpan",10,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Acidic']",4.5-6.5
+"Indigofera tinctoria / True Indigo",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.5
+"Millettia extensa / Gonj",10,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Mucuna pruriens / Velvet Bean / Kawach",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Sandy loam', 'Loamy']",5.0-7.5
+"Sesbania grandiflora / Agati / Agastya",15,40,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-8.0
+"Sesbania sesban / Jayanti",10,40,0,1200,"['Tropical', 'Subtropical', 'Semi-arid']","['Loamy', 'Clay', 'Poorly drained', 'Saline', 'Alluvial']",5.0-8.5
+"Tephrosia purpurea / Wild Indigo / Sarphonka",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Sandy', 'Well-drained', 'Loamy', 'Poor']",5.0-8.0
+"Paracalyx scariosus",15,35,500,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.0
+"Caesalpinia bonduc / Fever Nut / Gataran",15,40,0,500,"['Tropical', 'Subtropical', 'Coastal']","['Sandy', 'Well-drained', 'Loamy']",5.5-7.5
+"Caesalpinia sappan / Sappanwood / Patang",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Delonix elata / White Gulmohar",10,45,0,800,"['Tropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Rocky']",6.0-8.5
+"Hardwickia binata (Anjan)",10,48,100,1000,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam', 'Clay']",6.0-8.0
+"Parkinsonia aculeata / Jerusalem Thorn / Vilayati Kikar",-5,48,0,1000,"['Arid', 'Semi-arid', 'Subtropical', 'Tropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Saline', 'Rocky', 'Poor']",5.5-9.0
+"Saraca indica",15,35,0,800,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial']",5.5-7.0
+"Tamarindus indica (Tamarind)",5,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Alluvial', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",4.5-8.5
+"Acacia auriculiformis / Australian Wattle / Akashmoni",10,40,0,600,"['Tropical', 'Subtropical']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Poor', 'Acidic']",4.0-7.5
+"Acacia farnesiana / Mimosa Bush / Vilayati Kikar",-5,45,0,1000,"['Subtropical', 'Tropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Rocky', 'Saline']",5.5-8.5
+"Acacia leucophloea / Reonja / White-barked Acacia",5,48,0,1000,"['Tropical', 'Semi-arid', 'Arid']","['Well-drained', 'Sandy loam', 'Loamy', 'Clay', 'Rocky', 'Poor']",6.0-8.5
+"Acacia mangium",15,35,0,800,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Acidic', 'Poor']",4.0-6.5
+"Acacia mearnsii / Black Wattle",-5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Acidic']",4.5-6.5
+"Acacia pennata / Shembi",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Acacia sinuata / Ritha",10,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Albizia amara / Krishna Siris",10,45,0,1000,"['Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam']",5.5-8.0
+"Albizia chinensis / Sau Tree",5,35,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Albizia procera / White Siris / Safed Siris",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Clay']",5.5-7.5
+"Dichrostachys cinerea / Sickle Bush / Vurtuli",5,48,0,1500,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid']","['Well-drained', 'Clay', 'Loamy', 'Sandy loam', 'Rocky', 'Poor']",5.0-8.5
+"Entada rheedii / Elephant Creeper / Garambi",15,35,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy', 'Moist']",5.5-7.5
+"Leucaena leucocephala (Subabul)",10,40,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky', 'Alluvial', 'Saline']",5.5-8.5
+"Mimosa himalayana / Shiah Kanta",5,35,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.5
+"Mimosa pudica / Touch-me-not",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Disturbed']",5.0-7.0
+"Pithecellobium dulce (Manila Tamarind)",10,45,0,1800,"['Tropical', 'Subtropical', 'Semi-arid', 'Arid', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Clay', 'Saline', 'Rocky']",5.5-8.5
+"Prosopis juliflora / Mesquite / Vilayati Babool",-5,50,0,1500,"['Arid', 'Semi-arid', 'Tropical', 'Subtropical', 'Coastal']","['Sandy', 'Well-drained', 'Clay', 'Loamy', 'Saline', 'Rocky', 'Poor', 'Alluvial']",6.0-9.0+
+"Xylia xylocarpa / Irul / Jamba",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Clay', 'Lateritic']",5.0-7.0
+"Adenanthera pavonina / Red Bead Tree / Manjadi",15,38,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay']",5.5-7.5
+"Prunus cerasoides / Wild Himalayan Cherry / Padam",-10,30,1200,2400,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Prunus cornuta / Himalayan Bird Cherry",-10,25,1800,3200,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Prinsepia utilis / Bhakal",-10,30,1500,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.5
+"Pyracantha crenulata / Himalayan Firethorn",-15,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Clay', 'Rocky']",5.5-7.5
+"Pyrus pashia / Wild Himalayan Pear / Mehal",-10,35,800,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Clay loam', 'Rocky']",5.5-7.5
+"Sorbus cuspidata / Himalayan Whitebeam",-10,25,2000,3500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.0
+"Cotoneaster microphyllus / Small-leaved Cotoneaster",-20,25,2000,4000,"['Cool temperate', 'Alpine']","['Well-drained', 'Rocky', 'Loamy', 'Sandy']",5.5-7.5
+"Rubus ellipticus / Himalayan Yellow Raspberry / Hisalu",-5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Disturbed']",5.0-7.0
+"Kalanchoe pinnata / Patharchatta",10,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Sandy loam']",5.5-7.5
+"Woodfordia fruticosa / Dhaula / Fire-flame Bush",0,45,0,1500,"['Subtropical', 'Tropical', 'Semi-arid']","['Well-drained', 'Rocky', 'Loamy', 'Gravelly']",5.0-8.0
+"Lagerstroemia parviflora / Lendia / Siddha",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Clay', 'Rocky']",5.5-7.5
+"Sonneratia caseolaris / Mangrove Apple",20,35,0,5,"['Coastal', 'Tropical']","['Saline', 'Swampy', 'Wet', 'Clay', 'Muddy']","6.0-8.0 (Saline)"
+"Barringtonia acutangula / Indian Oak / Hijal",15,40,0,500,"['Tropical', 'Subtropical']","['Wet', 'Poorly drained', 'Clay', 'Loamy', 'Alluvial', 'Swampy']",5.0-7.0
+"Barringtonia racemosa / Powder-puff Tree",18,35,0,300,"['Coastal', 'Tropical']","['Wet', 'Poorly drained', 'Sandy', 'Loamy', 'Saline', 'Swampy']",5.0-7.5
+"Careya arborea / Kumbhi / Slow Match Tree",10,40,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Clay', 'Moist']",5.0-7.0
+"Osbeckia nepalensis / Chulesi",5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Acidic', 'Moist']",4.5-6.5
+"Melastoma malabathricum / Indian Rhododendron / Phutki",10,35,0,1800,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Acidic', 'Lateritic']",4.0-6.0
+"Syzygium operculatum / Rai Jamun",10,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Syzygium zeylanicum / Marungi",15,35,0,500,"['Coastal', 'Tropical']","['Well-drained', 'Sandy', 'Loamy']",5.5-7.5
+"Rhodomyrtus tomentosa / Rose Myrtle / Hill Guava",5,30,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Acidic', 'Poor']",4.5-6.5
+"Memecylon umbellatum / Ironwood Tree / Anjani",15,35,0,1000,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Lateritic', 'Loamy', 'Sandy']",5.0-7.0
+"Aralia cachemirica / Kashmir Aralia",-5,25,1800,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Shady']",5.5-7.0
+"Brassaiopsis aculeata / Chephar",5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Hedera nepalensis / Himalayan Ivy",-10,30,1000,3000,"['Temperate', 'Cool temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist', 'Rocky']",5.5-7.5
+"Schefflera venulosa / Kath-semul",10,35,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist', 'Rocky']",5.5-7.0
+"Viburnum cotinifolium / Himalayan Viburnum",-10,25,1800,3600,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Viburnum mullaha / Titmuliya",-5,25,1500,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Leycesteria formosa / Himalayan Honeysuckle / Nalkuro",-5,25,1500,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Shady']",5.5-7.0
+"Lonicera quinquelocularis / Himalayan Honeysuckle",-10,30,1500,3600,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Morinda tinctoria / Indian Mulberry (not Morus) / Aal",10,45,0,1000,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Clay', 'Rocky']",5.5-8.0
+"Morinda citrifolia / Noni / Indian Mulberry",15,35,0,500,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Rocky', 'Saline']",5.0-8.5
+"Mussaenda frondosa / Dhobi Tree / Bedina",15,35,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Hedyotis corymbosa (Oldenlandia corymbosa) / Pitpapra",10,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Disturbed']",5.5-7.5
+"Spermadictyon suaveolens / Forest Champa",5,30,500,1500,"['Subtropical', 'Temperate']","['Well-drained', 'Rocky', 'Loamy']",5.5-7.5
+"Plumbago zeylanica / Chitrak / White Leadwort",5,40,0,1200,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Sandy loam']",5.5-7.5
+"Ardisia solanacea / Bisi",10,35,0,1500,"['Subtropical', 'Tropical']","['Moist', 'Well-drained', 'Loamy', 'Shady']",5.0-7.0
+"Maesa indica / Kirmira",5,35,0,2000,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Rapanea striata (Myrsine striata)",10,30,1000,2000,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Manilkara hexandra / Khirni / Rayan",10,45,0,500,"['Tropical', 'Subtropical', 'Semi-arid', 'Coastal']","['Well-drained', 'Sandy', 'Loamy', 'Rocky', 'Saline']",6.0-8.5
+"Mimusops elengi / Bakul / Spanish Cherry",15,40,0,800,"['Tropical', 'Subtropical', 'Coastal']","['Well-drained', 'Loamy', 'Sandy loam', 'Alluvial']",5.5-7.5
+"Isonandra perrottetiana",15,30,800,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Palaquium ellipticum / Pali",18,35,0,1200,"['Tropical']","['Well-drained', 'Loamy', 'Moist', 'Lateritic']",4.5-6.5
+"Diospyros ebenum / True Ebony / Abnus",18,40,0,600,"['Tropical']","['Well-drained', 'Loamy', 'Rocky', 'Lateritic']",5.5-7.5
+"Diospyros paniculata / Karivella",18,35,0,1000,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Symplocos cochinchinensis / Lodh",5,35,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist', 'Acidic']",5.0-6.5
+"Casearia elliptica (syn C. tomentosa)",10,40,0,1200,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Flacourtia jangomas / Puneala Plum / Paniala",15,40,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Homalium nepalense",10,30,500,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Salix denticulata / Bhiunsh",-10,25,1800,3500,"['Temperate', 'Cool temperate']","['Moist', 'Well-drained', 'Loamy', 'Rocky']",5.5-7.0
+"Populus ciliata / Himalayan Poplar",-15,30,1200,3500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Alluvial', 'Moist']",5.5-7.5
+"Knema attenuata / Rakta Mara",18,35,0,1000,"['Tropical']","['Well-drained', 'Loamy', 'Moist', 'Swampy']",5.0-6.5
+"Myristica malabarica / Bombay Mace / Rampatri",18,35,0,800,"['Tropical']","['Moist', 'Swampy', 'Poorly drained', 'Loamy']",5.0-6.5
+"Horsfieldia irya / Shootam",18,35,0,600,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Beilschmiedia roxburghiana",10,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Cryptocarya wightiana",15,30,800,1800,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Actinodaphne hookeri / Pisa",15,30,800,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Gyrinops walla",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Wikstroemia canescens / Chamli",-5,25,1500,3000,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Daphne papyracea / Lokta / Paper Daphne",-10,25,1800,3100,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Moist', 'Shady']",5.0-7.0
+"Elaeagnus conferta / Bastard Oleaster / Giwain",-5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Viscum album / Mistletoe",-20,30,1000,3000,"['Temperate', 'Cool temperate']","['Parasitic']",NA
+"Loranthus species / Banda",0,45,0,2000,"['Tropical', 'Subtropical', 'Temperate']","['Parasitic']",NA
+"Dendrophthoe falcata / Vanda",5,45,0,1500,"['Tropical', 'Subtropical']","['Parasitic']",NA
+"Santalum album (Sandalwood)",10,38,300,1400,"['Tropical', 'Subtropical']","['Well-drained', 'Rocky', 'Loamy', 'Sandy loam', 'Clay']",6.0-7.5
+"Exocarpos latifolius / Kammara",15,35,0,500,"['Coastal', 'Tropical']","['Sandy', 'Well-drained']",6.0-7.5
+"Chrozophora rottleri / Suryavarti",10,45,0,800,"['Tropical', 'Subtropical', 'Semi-arid']","['Well-drained', 'Loamy', 'Sandy loam', 'Disturbed']",6.0-8.0
+"Dalechampia scandens",15,35,0,600,"['Tropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Homonoia riparia / River Croton / Machim",10,40,0,800,"['Tropical', 'Subtropical']","['Rocky', 'Gravelly', 'Wet', 'Alluvial']",5.5-7.5
+"Ostodes paniculata",15,35,500,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Suregada multiflora (Gelonium multiflorum) / Ban Naringa",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy']",5.5-7.0
+"Boehmeria nivea / Ramie",10,35,0,1500,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Alluvial', 'Fertile']",5.5-7.0
+"Debregeasia longifolia / Tushiara",5,30,500,2000,"['Subtropical', 'Temperate']","['Moist', 'Well-drained', 'Loamy', 'Rocky']",5.5-7.0
+"Girardinia diversifolia / Himalayan Nettle / Bichhu Buti",-5,30,1000,3000,"['Temperate', 'Subtropical']","['Moist', 'Loamy', 'Rich', 'Shady']",6.0-7.5
+"Maoutia puya / Pui",10,30,500,1500,"['Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Pilea scripta",10,25,1000,2000,"['Temperate', 'Subtropical']","['Moist', 'Rocky', 'Shady']",5.5-7.0
+"Villebrunea frutescens / Lipai",10,30,500,1800,"['Subtropical', 'Temperate']","['Moist', 'Well-drained', 'Loamy', 'Shady']",5.5-7.0
+"Ficus auriculata / Roxburgh Fig / Timla",5,35,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Ficus drupacea / Mysore Fig",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.5
+"Ficus nervosa / Khari Pati",10,35,0,1500,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Ficus semicordata / Khanyu",10,35,0,1800,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Rocky', 'Moist']",5.5-7.5
+"Ficus subincisa / Beduli",0,30,1500,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.0
+"Artocarpus gomezianus / Wild Jack",15,35,0,1000,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Prainea limpato / Buruni",20,35,0,500,"['Tropical']","['Well-drained', 'Loamy', 'Moist']",5.0-6.5
+"Quercus griffithii / Griffith's Oak",0,25,1200,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Acidic']",5.0-6.5
+"Quercus glauca / Blue Japanese Oak / Phaliyant",-5,30,1000,2500,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Alnus nitida / Sharol",-5,30,1000,2700,"['Temperate', 'Subtropical']","['Moist', 'Alluvial', 'Well-drained', 'Loamy']",5.5-7.5
+"Podocarpus neriifolius / Brown Pine / Thitmin",10,30,500,1500,"['Subtropical', 'Tropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Gnetum montanum / Nepali Climber",5,30,500,2000,"['Subtropical', 'Temperate']","['Well-drained', 'Loamy', 'Moist']",5.5-7.0
+"Cycas pectinata / Naga Cycad",10,35,500,1200,"['Subtropical', 'Tropical']","['Well-drained', 'Loamy', 'Rocky']",5.5-7.5
+"Cycas circinalis / Queen Sago",15,35,0,1000,"['Tropical', 'Subtropical']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky']",5.5-7.5
+"Pinus wallichiana (Blue Pine)",-15,30,1800,3500,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Sandy loam', 'Rocky', 'Acidic']",4.5-6.5
+"Pinus roxburghii (Chir Pine)",-5,40,500,2300,"['Subtropical', 'Temperate']","['Well-drained', 'Sandy loam', 'Loamy', 'Rocky', 'Poor']",4.5-7.5
+"Cedrus deodara (Deodar)",-10,30,1500,3200,"['Temperate', 'Cool temperate']","['Well-drained', 'Loamy', 'Rocky', 'Acidic', 'Moist']",5.5-7.5
+"Abies pindrow (Silver Fir)",-20,25,2400,3600,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Rocky', 'Acidic']",5.0-6.5
+"Picea smithiana (Himalayan Spruce)",-20,25,2300,3600,"['Cool temperate', 'Alpine']","['Well-drained', 'Loamy', 'Moist', 'Rocky', 'Acidic']",4.5-6.5
+"Cupressus torulosa (Himalayan Cypress)",-10,30,1500,2800,"['Temperate', 'Cool temperate']","['Well-drained', 'Rocky', 'Loamy']",6.0-8.0
+"Betula alnoides (Indian Birch)",0,30,1000,2700,"['Temperate', 'Subtropical']","['Well-drained', 'Loamy', 'Moist']",5.0-7.0
+"Saraca asoca (Ashoka)",15,35,0,750,"['Tropical', 'Subtropical']","['Moist', 'Well-drained', 'Loamy', 'Alluvial']",5.5-7.0

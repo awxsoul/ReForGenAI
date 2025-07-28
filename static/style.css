@@ -1,0 +1,241 @@
+/* static/css/style.css */
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    height: 100%;
+    width: 100%;
+    background-image: url("./images/background.jpeg");
+    background-size:cover;
+}
+
+#window {
+    background-color: blue;
+    transform: translate(-50%,-50%);
+    height: 95vh;
+    width: 90vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 25px;
+    background-color: #f0f0f0;
+
+}
+
+#ldisplay {
+    transform: translate(0%,-50%);
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    border-radius: 25px;
+}
+
+#rdisplay {
+    transform: translate(0%,-50%);
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    border-radius: 25px;
+}
+
+#headtittle {
+    transform: translate(0%,0%);
+    height: 7.5%;
+    width: 33%;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    border-radius: 25px;
+    border-color: #00000000;
+    border-width: 1px;
+    border-style:solid;
+    padding: 1.5%;
+    padding-top: 2%;
+    font-size: 300%;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium';
+
+}
+#divide {
+    transform: translate(0%,0%);
+    height: 7%;
+    width: 0.2%;
+    position: absolute;
+    top: 3.5%;
+    right: 58%;
+    background-color: rgba(0, 0, 0, 0.752);
+}
+
+#inputwindow {
+    transform: translate(0%,0%);
+    height: 10%;
+    width: 60%;
+    position: absolute;
+    top: 2%;
+    right: 1%;
+    border-radius: 25px;
+    border-color: #00000000;
+    border-width: 1px;
+    border-style:solid;
+}
+
+#resultdisplay {
+    transform: translate(0%,0%);
+    height: 86%;
+    width: 98%;
+    position: absolute;
+    top: 13%;
+    left: 1%;
+    border-radius: 25px;
+    border-color: #000000;
+    border-width: 1px;
+    border-style:solid;
+}
+
+#mapdisplay {
+    transform: translate(0%,0%);
+    height: 72%;
+    width: 98%;
+    position: absolute;
+    top: 1%;
+    left: 0.5%;
+    border-radius: 25px;
+    border-color: #00000000;
+    border-width: 1px;
+    border-style:solid;
+}
+
+#logdisplay {
+    transform: translate(0%,0%);
+    height: 25%;
+    width: 98%;
+    position: absolute;
+    top: 74%;
+    left: 0.5%;
+    border-radius: 25px;
+    border-color: #000000;
+    border-width: 1px;
+    border-style:solid;
+}
+
+#enter {
+    position: absolute;
+    right: 5%;
+    transform: translate(0%,-50%);
+    top: 50%;
+
+}
+
+#inputbox {
+    position: absolute;
+    left: 10%;
+    transform: translate(0%,-50%);
+    top: 50%;
+    text-align: right;
+
+}
+
+button {
+    padding: 10%;
+    border-radius: 25px;
+}
+
+label{
+    font-family: 'Franklin Gothic'
+}
+
+#resulthead{
+    padding: 1%;
+    padding-top: 5%;
+}
+
+#mainmap {
+    position: absolute;
+    background-color: rgba(0, 255, 255, 0);
+    height: 88%;
+    aspect-ratio: 1;
+    transform: translate(0%,-50%);
+    top: 54%;
+    left: 0%;
+    overflow: hidden;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #333;
+    
+}
+
+#resultmap {
+    position: absolute;
+    height: 100%;
+    aspect-ratio: 1;
+}
+
+#othermaps{
+    position: absolute;
+    height: 97.5%;
+    width: 15.3%;
+    transform: translate(0%,-50%);
+    top: 50%;
+    right: 2%;
+    overflow: hidden;
+    font-size: 80%;
+    
+}
+.smallmap {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #333;
+    width: 95%;
+    aspect-ratio: 1 ;
+}
+
+.toptittle{
+    font-family: 'Franklin Gothic';
+    font-weight: 900;
+    padding-top: 1%;
+    padding-left: 3%;
+}
+
+.variable{
+    font-family: 'Franklin Gothic';
+    padding-top: 1%;
+    padding-left: 3%;
+}
+
+.value {
+    font-family: sans-serif;
+    display: inline;
+}
+
+#treedisplay{
+    position: absolute;
+    background-color: rgba(0, 255, 255, 0);
+    width: 95%;
+    height: 60%;
+    left: 50%;
+    margin-top: 1%;
+    transform: translate(-50%,0%);
+    overflow-y: scroll;
+}
+
+.tree{
+    font-family: 'Franklin Gothic';
+    padding: 1%;
+    margin: 1%;
+    width: 95%;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.score {
+    position: absolute;
+    font-family: sans-serif;
+    display: inline;
+    right: 3%;
+}
+
