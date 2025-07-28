@@ -7,5 +7,4 @@ SYSTEM ARCHITECTURE
 CASE STUDY TEST
 <img width="1508" height="675" alt="image" src="https://github.com/user-attachments/assets/4ca0e239-c037-4bd6-aafe-64bc557849ea" />
 
-
-
+<img width="1932" height="714" alt="image" src="https://github.com/user-attachments/assets/47c95965-8d90-4290-a0d1-27cba9d3fdf3" />
